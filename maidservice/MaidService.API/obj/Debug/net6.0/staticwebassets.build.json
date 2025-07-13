@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1oIQ77154miFRrc0Xuz7Xd8unDNT/1hzf7FtC3r8tbk=",
+  "Source": "MaidService.API",
+  "BasePath": "_content/MaidService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
